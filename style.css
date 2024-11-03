@@ -1,0 +1,33 @@
+* {
+    background-color: beige;
+    font-family: sans-serif,serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 55px;
+    font-weight: 600;
+    padding-bottom: 20px; 
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+a:hover{
+    font-weight: 900;
+    color: black;
+    text-decoration: underline 3px red;
+}
+
+#recipe-list {
+    list-style-type: none;
+    text-align: center;
+}
+
+.recipes{
+    padding-bottom: 10px;
+}
+
